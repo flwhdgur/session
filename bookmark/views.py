@@ -18,3 +18,6 @@ class bookmarkCreateView(CreateView):
 
 class bookmarkDetailView(DetailView):
     model = bookmark
+
+
+    #asdfsfdsadf
